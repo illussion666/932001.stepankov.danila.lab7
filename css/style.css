@@ -1,0 +1,19 @@
+.square{
+	background-color:red;
+	position: absolute;
+	opacity: 0.9;
+    border: 1px solid black; 
+}
+
+.triangle{
+	position: absolute;
+	opacity: 0.9;  
+}
+
+.circle{
+	background-color: green;
+	border-radius: 50%;
+	position: absolute;
+	opacity: 0.9;
+    border: 1px solid black;
+}
